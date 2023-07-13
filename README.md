@@ -7,7 +7,7 @@ This streamlit app uses an LSTM model to predict food delivery times, taking in 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ArchitJambhule1011/Stock_market_trend_prediction.git
+    git clone https://github.com/ArchitJambhule1011/Food_delivery_time_prediction.git
 
 2. Install the required dependencies:
     
